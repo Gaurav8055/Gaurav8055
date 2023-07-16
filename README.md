@@ -2,14 +2,19 @@
 <h3 align="center">A passionate Java FuLL-Stack Developer India</h3>
 
 <img align="right" width="100%" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmdvd21rZGgxb3JqcGxjNDV4ZDFodDNkbWNud25wdWVrZzQ2ZGIwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VPpkvgTIJ817dfQOXI/giphy.gif">
+<br>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurav8055&label=Profile%20views&color=0e75b6&style=flat.gif" alt="gaurav8055" /> </p><br>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurav8055&label=Profile%20views&color=0e75b6&style=flat.gif" alt="gaurav8055" /> </p>
-
-<img align="right" width="300" height="200" src="camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966.gif">
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gaurav8055" alt="gaurav8055" /></a> </p>
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gaurav8055" alt="gaurav8055" /></a>
+<img align="right" alt="coding" width="400"  src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
+</p>
 
 
 - 🌱 I’m currently learning **Framworks , WebServices**
